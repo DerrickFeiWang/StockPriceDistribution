@@ -1,6 +1,6 @@
 # StockPriceDistribution
 
-When investigating the stock price distribution among US stock markets, one interesting phenomena I observed was that there are peaks at numbers 10, 25. This phenomena is not transient. The following animation showes the peaks persist aling time.
+When investigating the stock price distribution among US stock markets, one interesting phenomena I observed was that there are peaks at numbers 10, 25. This phenomena is not transient. The following animation showes the peaks persist along time.
 
 
 
